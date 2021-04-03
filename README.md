@@ -1,6 +1,4 @@
-# IoT-ichatz
-### Unmanned marine life quality monitoring device 
-
+## Unmanned marine life quality monitoring device (IoT - iChatz) 
 
 Description
 ---
