@@ -1,3 +1,6 @@
+ <p align="center"> 
+    <img src="https://github.com/mj-anarchist/IoT-ichatz/blob/main/IoT_Project.png" alt="alternate text">
+ </p>
 
 ## Unmanned marine life quality monitoring device (IoT - iChatz) 
 
