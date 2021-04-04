@@ -1,3 +1,5 @@
+![Project Logo](https://github.com/mj-anarchist/IoT-ichatz/blob/main/IoT_Project.png "Project Logo")
+
 ## Unmanned marine life quality monitoring device (IoT - iChatz) 
 
 > ### Description
