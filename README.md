@@ -9,9 +9,9 @@ This IoT project aims to develop a device which can automatically roam around a 
 > ### Group Members/Collaborators
 
 ```
-- Abdul Mujeeb
-- Hesam Farjad
-- Hamidreza Rokhsati
+- Abdul Mujeeb (mujeeb.1972811@studenti.uniroma1.it)
+- Hesam Farjad (farjad.1938534@studenti.uniroma1.it)
+- Hamidreza Rokhsati (rokhsati.1960699@studenti.uniroma1.it)
 ```
 
 > ### Links Of Documents
