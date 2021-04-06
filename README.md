@@ -30,3 +30,10 @@ This IoT project aims to develop a device which can automatically roam around a 
 (Technical Approach - Architecture & Main Technologies 3 minutes)
 (Performance Evaluation - 2 minutes)
 ```
+> ### LinkedIn Profiles of the group members
+
+```
+Hamidreza Rokhsati: https://ir.linkedin.com/in/hamidreza-rokhsati-bb8a5287
+Hesam Farjad : https://www.linkedin.com/in/hesamfarjad/
+Abdul Mujeeb : https://www.linkedin.com/in/mujeebishaque/
+```
